@@ -1,0 +1,8 @@
+{
+	"mysql_host": "db",
+	"mysql_database": "url",
+	"mysql_user": "root",
+	"mysql_password": "password",
+	"short_url": "localhost",
+	"default_url": "localhost"
+}
